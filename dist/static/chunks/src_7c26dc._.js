@@ -1315,11 +1315,11 @@ function Home() {
                                 className: "flex items-center space-x-4 text-sm",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        className: "text-xs text-gray-400 dark:text-gray-500",
+                                        className: "text-xs text-gray-400 dark:text-gray-500 border border-gray-200 dark:border-gray-700 rounded-md px-2 py-1 hover:border-blue-200 dark:hover:border-blue-800 transition-colors",
                                         children: [
                                             "powered by ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "https://maoco.dev",
+                                                href: "https://www.linkedin.com/in/melih-adnan-ozturk/",
                                                 target: "_blank",
                                                 rel: "noopener noreferrer",
                                                 className: "hover:text-blue-500 dark:hover:text-blue-400 transition-colors",
@@ -1363,7 +1363,7 @@ function Home() {
                                         className: "flex space-x-4",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "#",
+                                                href: "https://www.linkedin.com/in/baki-dalmis-65942222a/",
                                                 target: "_blank",
                                                 rel: "noopener noreferrer",
                                                 className: "text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors",
@@ -1380,7 +1380,7 @@ function Home() {
                                                 columnNumber: 33
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "#",
+                                                href: "https://github.com/Islanmasak",
                                                 target: "_blank",
                                                 rel: "noopener noreferrer",
                                                 className: "text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors",

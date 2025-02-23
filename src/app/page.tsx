@@ -414,8 +414,8 @@ export default function Home() {
                 <div className="max-w-7xl mx-auto">
                     <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
                         <div className="flex items-center space-x-4 text-sm">
-              <span className="text-xs text-gray-400 dark:text-gray-500">
-                powered by <a href="https://maoco.dev" target="_blank" rel="noopener noreferrer"
+              <span className="text-xs text-gray-400 dark:text-gray-500 border border-gray-200 dark:border-gray-700 rounded-md px-2 py-1 hover:border-blue-200 dark:hover:border-blue-800 transition-colors">
+                powered by <a href="https://www.linkedin.com/in/melih-adnan-ozturk/" target="_blank" rel="noopener noreferrer"
                               className="hover:text-blue-500 dark:hover:text-blue-400 transition-colors">maoco</a>
               </span>
                             <div className="h-4 w-px bg-gray-300 dark:bg-gray-600"/>
@@ -426,7 +426,7 @@ export default function Home() {
                         <div className="flex items-center space-x-6">
                             <div className="flex space-x-4">
                                 <a
-                                    href="#"
+                                    href="https://www.linkedin.com/in/baki-dalmis-65942222a/"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors"
@@ -434,7 +434,7 @@ export default function Home() {
                                     <FaLinkedin size={20}/>
                                 </a>
                                 <a
-                                    href="#"
+                                    href="https://github.com/Islanmasak"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors"
